@@ -1,0 +1,29 @@
+.footer {
+    background-color: #fff;
+    padding: 15px 20px;
+    text-align: center;
+    border-top: 1px solid #ddd;
+    margin-top: 20px;
+  }
+  
+  .footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .footer-links {
+    display: flex;
+    gap: 15px;
+  }
+  
+  .footer-links a {
+    color: #4267B2;
+    text-decoration: none;
+  }
+  
+  .footer-links a:hover {
+    text-decoration: underline;
+  }
