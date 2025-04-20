@@ -1,0 +1,36 @@
+.error-container {
+    padding: 40px;
+    text-align: center;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 50px auto;
+  }
+  
+  .error-container h2 {
+    font-size: 2rem;
+    color: #dc3545;
+  }
+  
+  .error-container p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+  }
+  
+  .error-link {
+    font-size: 1.1rem;
+    color: #007bff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    background-color: #fff;
+    transition: background-color 0.3s ease;
+  }
+  
+  .error-link:hover {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
